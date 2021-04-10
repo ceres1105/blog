@@ -53,7 +53,7 @@ export const Footer: React.FC<{
           </a>
         )}
 
-        {config.github && (
+        {/* {config.github && (
           <a
             className={styles.github}
             href={`https://github.com/${config.github}`}
@@ -63,9 +63,9 @@ export const Footer: React.FC<{
           >
             <FaGithub />
           </a>
-        )}
+        )} */}
 
-        {config.linkedin && (
+        {/* {config.linkedin && (
           <a
             className={styles.linkedin}
             href={`https://www.linkedin.com/in/${config.linkedin}`}
@@ -75,7 +75,7 @@ export const Footer: React.FC<{
           >
             <FaLinkedin />
           </a>
-        )}
+        )} */}
       </div>
     </footer>
   )

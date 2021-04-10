@@ -37,6 +37,7 @@
 .notion-header .nav-header {
   max-width: 1100px;
   margin: 0 auto;
+  /* text-align: right; */
 }
 
 .notion-gallery-grid {
@@ -187,6 +188,21 @@
 .notion-block-ab9a258d6cf444f3bb40dc2600feae91 .notion-page-link {
   justify-content: center;
   padding: 2em;
+}
+
+.notion-page-link {
+  text-decoration: none;
+}
+
+.notion-page-link:hover {
+  background-color: transparent !important;
+}
+
+.notion-page-title-text {
+  border-bottom: none;
+}
+.notion-column:hover {
+  transform: scale(1.01);
 }
 
 .notion-code {

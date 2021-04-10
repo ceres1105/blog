@@ -8,7 +8,7 @@ module.exports = {
 
   // basic site info (required)
   name: 'Minju Kim',
-  domain: 'transitivebullsh.it',
+  domain: 'blog-ceres1105.vercel.app/',
   author: 'Minju Kim',
 
   // open graph metadata (optional)
@@ -17,9 +17,9 @@ module.exports = {
   socialImageSubtitle: 'Hello World! 👋',
 
   // social usernames (optional)
-  twitter: 'transitive_bs',
-  github: 'transitive-bullshit',
-  linkedin: 'fisch2',
+  // twitter: 'transitive_bs',
+  github: 'ceres1105',
+  // linkedin: 'fisch2',
 
   // default notion icon and cover images for site-wide consistency (optional)
   // page-specific values will override these site-wide defaults
