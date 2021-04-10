@@ -336,6 +336,10 @@
   justify-content: left;
 }
 
+.notion-page-icon-wrapper {
+  justify-content: left;
+}
+
 .notion-header {
   background: hsla(0, 0%, 100%, 0.8);
   backdrop-filter: saturate(180%) blur(16px);
