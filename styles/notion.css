@@ -116,6 +116,7 @@
 
 .notion-callout {
   margin: 0.75em 0;
+  border: none;
 }
 
 .notion-hr {
@@ -157,7 +158,7 @@
 
 .notion-title {
   display: block;
-  text-align: center;
+  text-align: left;
 }
 
 .notion-collection-column-title {
@@ -331,6 +332,7 @@
 .notion-page-icon-wrapper img.notion-page-icon {
   border-radius: 50%;
   box-shadow: 0 8px 40px 0 rgb(0 0 0 / 21%);
+  justify-content: left;
 }
 
 .notion-header {
