@@ -159,6 +159,7 @@
 .notion-title {
   display: block;
   text-align: left;
+  margin-bottom: 40px;
 }
 
 .notion-collection-column-title {
